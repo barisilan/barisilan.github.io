@@ -1,0 +1,45 @@
+
+/* tüm sayfaların arkaplan rengi*/
+
+body {
+     
+    background-color:#ffffb3;             /*--Arka plan rengini hex koduyla değiştirme */
+ background-color:"rgb(255,255,179)";           /* Arka plan rengini rgb renk değerleriyle değiştirme */
+ background-color:"shadow";                  /* Arka plan rengini renk ismiyle değiştirme */
+ }
+
+h1 {
+
+    font-size: 30px;
+    font-family: monospace;
+text-align: center;
+line-height: 15px;
+color: brown;
+}
+
+h3 {
+
+    font-size: 25px;
+    font-family: monospace;
+text-align: center;
+line-height: 15px;
+
+}
+
+h2 {
+
+    font-size: 25px;
+    font-family: monospace;
+text-align: center;
+line-height: 15px;
+
+}
+
+p {
+
+    
+    font-family: monospace;
+text-align: center;
+line-height: 15px;
+
+}
