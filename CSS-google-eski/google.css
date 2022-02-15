@@ -1,0 +1,44 @@
+
+
+
+.googlesearch{
+    font-size: 13pt;
+    width: 90%;         /* width değeri yüzde olarak verildi. bu sayede sayfa boyutuna göre kendiliğinden ayarlanabiliyor */
+    background-color: rgb(247, 239, 239);
+  
+    
+   
+    
+}
+
+
+
+.sgenel {   /*  arama kutusu altındaki kutuların aynı özellikleri tek bir yerde birleştirildi. */
+    text-align: center;
+    height: 80px;
+    margin-top: 5px;
+    float: left;
+    
+    
+}   /* her kutunu sadece kendine ait olan özelliği ayrı olarak yazıldı. */
+.s1{
+    margin-left: 5%;
+    width: 33.5%;
+    background-color:rgb(172, 241, 241)
+    
+
+}
+
+.s2{
+    margin-left: 3px;
+    width: 16%;
+    background-color: rgb(122, 226, 226);
+    
+}
+
+.s3{
+    margin-left: 3px;
+    width: 40%;
+    background-color: rgb(57, 168, 168);
+   
+}
